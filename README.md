@@ -1,4 +1,4 @@
-# Excel-SpreadSheet-Project
+# Excel-SpreadSheet-Projects
 
 First Project: Invoice System
 
