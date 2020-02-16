@@ -10,7 +10,7 @@ I have made a table where we have employees in a company who get paid wages depe
 
 Third Project: Movie Rankings
 
-We have a list of movies with rankings, rating, title, year, genres and director. From this list we can enter the rank in the field provided and that will retrieve from this list the movie specifications (using VLOOKUP). the user can change anything in the movie list and that would directly affect what we see in the lookup table. 
+We have a list of movies with rankings, rating, title, year, genres and director. From this list we can enter the rank in the field provided, and that will retrieve from this list the movie specifications (using VLOOKUP). the user can change anything in the movie list and that would directly affect what we see in the lookup table. 
 
 Fourth Project: Insurance Premium Disturbution
 
@@ -18,8 +18,6 @@ Depending on the total insurance premium as well as the number of seats allocate
 
 Reasons why I believe Excel SpreadSheet is useful: 
 
-I believe although these tasks can be done by hand or by using writing tools for small input sets, this cannot be done for big inputs without using these functions. Automating this tasks can also help increase productivity as well as cutback on redundant tasks by reusing the same components for other similar tasks. 
-
-Hope this showcases my knowledge in Excel functions and how they are used. 
+I believe although these tasks can be done by hand or by using writing tools for small input sets, this cannot be done for big inputs without using these functions. Automating this tasks can also help increase productivity as well as cutback on redundant tasks by reusing the same components when the need arises. 
 
 Thank you for reading this, I have included the file in this repository.
